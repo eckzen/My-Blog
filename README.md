@@ -60,9 +60,13 @@ Html CSS JS
         - copy css
 
 48:00 - Adjusting the styling of nav menu
+
 50:00 - Social icons
+
 51:12 - making navbar responsive
+
 55:50 - adding a hamburger menu
+
 1:00:06 - adding javascript
     
     
